@@ -1,0 +1,2018 @@
+[
+  {
+      "portid": "ABM",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "ABMISIBIL",
+      "active": "1"
+  },
+  {
+      "portid": "ABY",
+      "countryid": "ID",
+      "cityid": "1552",
+      "name": "ABOY",
+      "active": "1"
+  },
+  {
+      "portid": "ABO",
+      "countryid": "ID",
+      "cityid": "1552",
+      "name": "ABOY PAPUA",
+      "active": "1"
+  },
+  {
+      "portid": "AEG",
+      "countryid": "ID",
+      "cityid": "1354",
+      "name": "AEK GODANG",
+      "active": "1"
+  },
+  {
+      "portid": "AKS",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "AKSAL",
+      "active": "1"
+  },
+  {
+      "portid": "ADR",
+      "countryid": "ID",
+      "cityid": "219",
+      "name": "Alor",
+      "active": "1"
+  },
+  {
+      "portid": "AHI",
+      "countryid": "ID",
+      "cityid": "1544",
+      "name": "AMAHI",
+      "active": "1"
+  },
+  {
+      "portid": "AMQ",
+      "countryid": "ID",
+      "cityid": "19",
+      "name": "AMBON",
+      "active": "1"
+  },
+  {
+      "portid": "XAM",
+      "countryid": "ID",
+      "cityid": "1229",
+      "name": "Ampenan",
+      "active": "1"
+  },
+  {
+      "portid": "AGD",
+      "countryid": "ID",
+      "cityid": "1543",
+      "name": "ANGGI",
+      "active": "1"
+  },
+  {
+      "portid": "ANG",
+      "countryid": "ID",
+      "cityid": "1545",
+      "name": "ANGGRUK",
+      "active": "1"
+  },
+  {
+      "portid": "APA",
+      "countryid": "ID",
+      "cityid": "1546",
+      "name": "APALAPSILI",
+      "active": "1"
+  },
+  {
+      "portid": "ARJ",
+      "countryid": "ID",
+      "cityid": "1578",
+      "name": "ARSO",
+      "active": "1"
+  },
+  {
+      "portid": "ASU",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "ASUA",
+      "active": "1"
+  },
+  {
+      "portid": "ABU",
+      "countryid": "ID",
+      "cityid": "223",
+      "name": "ATAMBUA",
+      "active": "1"
+  },
+  {
+      "portid": "AWI",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "AWINBON",
+      "active": "1"
+  },
+  {
+      "portid": "AYW",
+      "countryid": "ID",
+      "cityid": "1555",
+      "name": "AYAWASI",
+      "active": "1"
+  },
+  {
+      "portid": "BXB",
+      "countryid": "ID",
+      "cityid": "1557",
+      "name": "BABO",
+      "active": "1"
+  },
+  {
+      "portid": "BJW",
+      "countryid": "ID",
+      "cityid": "1333",
+      "name": "BAJAWA",
+      "active": "1"
+  },
+  {
+      "portid": "DPS",
+      "countryid": "ID",
+      "cityid": "2",
+      "name": "BALI",
+      "active": "1"
+  },
+  {
+      "portid": "BPN",
+      "countryid": "ID",
+      "cityid": "72",
+      "name": "BALIKPAPAN",
+      "active": "1"
+  },
+  {
+      "portid": "BTJ",
+      "countryid": "ID",
+      "cityid": "1",
+      "name": "Banda Aceh",
+      "active": "1"
+  },
+  {
+      "portid": "KAO",
+      "countryid": "ID",
+      "cityid": "19",
+      "name": "BANDARA GOSOWONG",
+      "active": "1"
+  },
+  {
+      "portid": "CBN",
+      "countryid": "ID",
+      "cityid": "51",
+      "name": "Bandara Penggung",
+      "active": "1"
+  },
+  {
+      "portid": "BDO",
+      "countryid": "ID",
+      "cityid": "8",
+      "name": "BANDUNG",
+      "active": "1"
+  },
+  {
+      "portid": "BDJ",
+      "countryid": "ID",
+      "cityid": "12",
+      "name": "Banjarmasin",
+      "active": "1"
+  },
+  {
+      "portid": "BWX",
+      "countryid": "ID",
+      "cityid": "192",
+      "name": "Banyuwangi",
+      "active": "1"
+  },
+  {
+      "portid": "BTH",
+      "countryid": "ID",
+      "cityid": "75",
+      "name": "BATAM",
+      "active": "1"
+  },
+  {
+      "portid": "BTI",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "BATANI",
+      "active": "1"
+  },
+  {
+      "portid": "BXM",
+      "countryid": "ID",
+      "cityid": "1552",
+      "name": "BATOM",
+      "active": "1"
+  },
+  {
+      "portid": "BAT",
+      "countryid": "ID",
+      "cityid": "1549",
+      "name": "BATOM",
+      "active": "1"
+  },
+  {
+      "portid": "BTW",
+      "countryid": "ID",
+      "cityid": "1330",
+      "name": "BATU LICIN",
+      "active": "1"
+  },
+  {
+      "portid": "BUW",
+      "countryid": "ID",
+      "cityid": "86",
+      "name": "BAU-BAU",
+      "active": "1"
+  },
+  {
+      "portid": "BWU",
+      "countryid": "ID",
+      "cityid": "1232",
+      "name": "BAUBAU",
+      "active": "1"
+  },
+  {
+      "portid": "BXD",
+      "countryid": "ID",
+      "cityid": "1553",
+      "name": "BEDE",
+      "active": "1"
+  },
+  {
+      "portid": "BKS",
+      "countryid": "ID",
+      "cityid": "4",
+      "name": "BENGKULU",
+      "active": "1"
+  },
+  {
+      "portid": "BEO",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "BEOGA",
+      "active": "1"
+  },
+  {
+      "portid": "BEJ",
+      "countryid": "ID",
+      "cityid": "201",
+      "name": "BERAU",
+      "active": "1"
+  },
+  {
+      "portid": "BIK",
+      "countryid": "ID",
+      "cityid": "189",
+      "name": "BIAK",
+      "active": "1"
+  },
+  {
+      "portid": "FOO",
+      "countryid": "ID",
+      "cityid": "1574",
+      "name": "BIAK NUMFOR",
+      "active": "1"
+  },
+  {
+      "portid": "BMU",
+      "countryid": "ID",
+      "cityid": "81",
+      "name": "BIMA",
+      "active": "1"
+  },
+  {
+      "portid": "BIM",
+      "countryid": "ID",
+      "cityid": "1550",
+      "name": "BIME",
+      "active": "1"
+  },
+  {
+      "portid": "NTI",
+      "countryid": "ID",
+      "cityid": "1557",
+      "name": "BINTUNI",
+      "active": "1"
+  },
+  {
+      "portid": "BOB",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "BOBKAMU",
+      "active": "1"
+  },
+  {
+      "portid": "BJN",
+      "countryid": "ID",
+      "cityid": "45",
+      "name": "BOJONEGORO",
+      "active": "1"
+  },
+  {
+      "portid": "BOK",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "BOKONDINI",
+      "active": "1"
+  },
+  {
+      "portid": "BUI",
+      "countryid": "ID",
+      "cityid": "1561",
+      "name": "BOKONDINI",
+      "active": "1"
+  },
+  {
+      "portid": "BOL",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "BOLAKNA",
+      "active": "1"
+  },
+  {
+      "portid": "BXG",
+      "countryid": "ID",
+      "cityid": "1562",
+      "name": "BOMAKIA",
+      "active": "1"
+  },
+  {
+      "portid": "BXE",
+      "countryid": "ID",
+      "cityid": "227",
+      "name": "Bone",
+      "active": "1"
+  },
+  {
+      "portid": "BOR",
+      "countryid": "ID",
+      "cityid": "1551",
+      "name": "BORME",
+      "active": "1"
+  },
+  {
+      "portid": "BOT",
+      "countryid": "ID",
+      "cityid": "1594",
+      "name": "BOTAWA",
+      "active": "1"
+  },
+  {
+      "portid": "BRS",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "BRIS",
+      "active": "1"
+  },
+  {
+      "portid": "BLA",
+      "countryid": "ID",
+      "cityid": "19",
+      "name": "BULA",
+      "active": "1"
+  },
+  {
+      "portid": "WUB",
+      "countryid": "ID",
+      "cityid": "30",
+      "name": "BULI",
+      "active": "1"
+  },
+  {
+      "portid": "UOL",
+      "countryid": "ID",
+      "cityid": "28",
+      "name": "BUOL POGOGUL",
+      "active": "1"
+  },
+  {
+      "portid": "RTI",
+      "countryid": "ID",
+      "cityid": "221",
+      "name": "D.C. Saundale",
+      "active": "1"
+  },
+  {
+      "portid": "DAB",
+      "countryid": "ID",
+      "cityid": "1563",
+      "name": "DABRA",
+      "active": "1"
+  },
+  {
+      "portid": "DNE",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "DANME",
+      "active": "1"
+  },
+  {
+      "portid": "WET",
+      "countryid": "ID",
+      "cityid": "1577",
+      "name": "DEIYAI",
+      "active": "1"
+  },
+  {
+      "portid": "DEX",
+      "countryid": "ID",
+      "cityid": "1345",
+      "name": "DEKAI",
+      "active": "1"
+  },
+  {
+      "portid": "zzz",
+      "countryid": "ID",
+      "cityid": "52",
+      "name": "Depok",
+      "active": "1"
+  },
+  {
+      "portid": "DIP",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "DHIPIKIN",
+      "active": "1"
+  },
+  {
+      "portid": "DOB",
+      "countryid": "ID",
+      "cityid": "1334",
+      "name": "DOBO",
+      "active": "1"
+  },
+  {
+      "portid": "DBO",
+      "countryid": "ID",
+      "cityid": "78",
+      "name": "DOBO",
+      "active": "1"
+  },
+  {
+      "portid": "DUM",
+      "countryid": "ID",
+      "cityid": "81",
+      "name": "Dumai",
+      "active": "1"
+  },
+  {
+      "portid": "EIP",
+      "countryid": "ID",
+      "cityid": "1552",
+      "name": "EIPUMEK",
+      "active": "1"
+  },
+  {
+      "portid": "ELE",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "ELELIM",
+      "active": "1"
+  },
+  {
+      "portid": "ENA",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "ENAROTALI",
+      "active": "1"
+  },
+  {
+      "portid": "ENE",
+      "countryid": "ID",
+      "cityid": "215",
+      "name": "Ende",
+      "active": "1"
+  },
+  {
+      "portid": "EWE",
+      "countryid": "ID",
+      "cityid": "1566",
+      "name": "EWER",
+      "active": "1"
+  },
+  {
+      "portid": "FKQ",
+      "countryid": "ID",
+      "cityid": "23",
+      "name": "FAK-FAK",
+      "active": "1"
+  },
+  {
+      "portid": "FWI",
+      "countryid": "ID",
+      "cityid": "1596",
+      "name": "FAWI",
+      "active": "1"
+  },
+  {
+      "portid": "GLX",
+      "countryid": "ID",
+      "cityid": "1277",
+      "name": "GALELA",
+      "active": "1"
+  },
+  {
+      "portid": "GTO",
+      "countryid": "ID",
+      "cityid": "5",
+      "name": "Gorontalo",
+      "active": "1"
+  },
+  {
+      "portid": "GUA",
+      "countryid": "ID",
+      "cityid": "100",
+      "name": "GUANTEMALA FLORES, EL PETEN",
+      "active": "1"
+  },
+  {
+      "portid": "GNS",
+      "countryid": "ID",
+      "cityid": "1341",
+      "name": "Gunung Sitoli",
+      "active": "1"
+  },
+  {
+      "portid": "HLP",
+      "countryid": "ID",
+      "cityid": "45",
+      "name": "Halim Perdana Kusuma",
+      "active": "1"
+  },
+  {
+      "portid": "HNG",
+      "countryid": "ID",
+      "cityid": "1552",
+      "name": "HANG MATA",
+      "active": "1"
+  },
+  {
+      "portid": "ILG",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "ILAGA",
+      "active": "1"
+  },
+  {
+      "portid": "ILU",
+      "countryid": "ID",
+      "cityid": "1597",
+      "name": "ILU",
+      "active": "1"
+  },
+  {
+      "portid": "INX",
+      "countryid": "ID",
+      "cityid": "1558",
+      "name": "INANWATAN",
+      "active": "1"
+  },
+  {
+      "portid": "UGU",
+      "countryid": "ID",
+      "cityid": "1554",
+      "name": "INTAN JAYA",
+      "active": "1"
+  },
+  {
+      "portid": "IWU",
+      "countryid": "ID",
+      "cityid": "1552",
+      "name": "IWUR",
+      "active": "1"
+  },
+  {
+      "portid": "IWR",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "IWUR",
+      "active": "1"
+  },
+  {
+      "portid": "CGK",
+      "countryid": "ID",
+      "cityid": "6",
+      "name": "Jakarta",
+      "active": "1"
+  },
+  {
+      "portid": "JKT",
+      "countryid": "ID",
+      "cityid": "6",
+      "name": "JAKARTA",
+      "active": "1"
+  },
+  {
+      "portid": "DJB",
+      "countryid": "ID",
+      "cityid": "7",
+      "name": "Jambi",
+      "active": "1"
+  },
+  {
+      "portid": "DJJ",
+      "countryid": "ID",
+      "cityid": "23",
+      "name": "JAYAPURA",
+      "active": "1"
+  },
+  {
+      "portid": "AAS",
+      "countryid": "ID",
+      "cityid": "1540",
+      "name": "JAYAWIJAYA",
+      "active": "1"
+  },
+  {
+      "portid": "AYX",
+      "countryid": "ID",
+      "cityid": "1548",
+      "name": "JAYAWIJAYA",
+      "active": "1"
+  },
+  {
+      "portid": "JBB",
+      "countryid": "ID",
+      "cityid": "1347",
+      "name": "JEMBER",
+      "active": "1"
+  },
+  {
+      "portid": "JBE",
+      "countryid": "ID",
+      "cityid": "197",
+      "name": "JEMBER",
+      "active": "1"
+  },
+  {
+      "portid": "KNG",
+      "countryid": "ID",
+      "cityid": "1278",
+      "name": "KAIMANA",
+      "active": "1"
+  },
+  {
+      "portid": "KAK",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "KAKLUP",
+      "active": "1"
+  },
+  {
+      "portid": "KBX",
+      "countryid": "ID",
+      "cityid": "1555",
+      "name": "KAMBUAYA",
+      "active": "1"
+  },
+  {
+      "portid": "KMR",
+      "countryid": "ID",
+      "cityid": "1566",
+      "name": "KAMUR",
+      "active": "1"
+  },
+  {
+      "portid": "KAN",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "KANGGIME",
+      "active": "1"
+  },
+  {
+      "portid": "KBF",
+      "countryid": "ID",
+      "cityid": "1561",
+      "name": "KARUBAGA",
+      "active": "1"
+  },
+  {
+      "portid": "KAS",
+      "countryid": "ID",
+      "cityid": "1563",
+      "name": "KASO",
+      "active": "1"
+  },
+  {
+      "portid": "KSO",
+      "countryid": "ID",
+      "cityid": "1563",
+      "name": "KASONAWEJA",
+      "active": "1"
+  },
+  {
+      "portid": "TBN",
+      "countryid": "ID",
+      "cityid": "229",
+      "name": "Katingan",
+      "active": "1"
+  },
+  {
+      "portid": "LLN",
+      "countryid": "ID",
+      "cityid": "1552",
+      "name": "KELILA",
+      "active": "1"
+  },
+  {
+      "portid": "KDI",
+      "countryid": "ID",
+      "cityid": "29",
+      "name": "Kendari",
+      "active": "1"
+  },
+  {
+      "portid": "KYM",
+      "countryid": "ID",
+      "cityid": "1590",
+      "name": "KENYAM",
+      "active": "1"
+  },
+  {
+      "portid": "KEN",
+      "countryid": "ID",
+      "cityid": "1590",
+      "name": "KENYAM",
+      "active": "1"
+  },
+  {
+      "portid": "KEI",
+      "countryid": "ID",
+      "cityid": "1553",
+      "name": "KEPI",
+      "active": "1"
+  },
+  {
+      "portid": "KTG",
+      "countryid": "ID",
+      "cityid": "1252",
+      "name": "Ketapang",
+      "active": "1"
+  },
+  {
+      "portid": "KMM",
+      "countryid": "ID",
+      "cityid": "190",
+      "name": "KIMAAM",
+      "active": "1"
+  },
+  {
+      "portid": "KIW",
+      "countryid": "ID",
+      "cityid": "1552",
+      "name": "KIWIROK",
+      "active": "1"
+  },
+  {
+      "portid": "KIY",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "KIYAGE",
+      "active": "1"
+  },
+  {
+      "portid": "KOB",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "KOBAKMA",
+      "active": "1"
+  },
+  {
+      "portid": "KBK",
+      "countryid": "ID",
+      "cityid": "1579",
+      "name": "KOBAKMA",
+      "active": "1"
+  },
+  {
+      "portid": "KOR",
+      "countryid": "ID",
+      "cityid": "1573",
+      "name": "KOROPUN",
+      "active": "1"
+  },
+  {
+      "portid": "KBU",
+      "countryid": "ID",
+      "cityid": "1228",
+      "name": "Kota Baru",
+      "active": "1"
+  },
+  {
+      "portid": "KOT",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "KOTYO",
+      "active": "1"
+  },
+  {
+      "portid": "KFR",
+      "countryid": "ID",
+      "cityid": "19",
+      "name": "KUFAR",
+      "active": "1"
+  },
+  {
+      "portid": "KOE",
+      "countryid": "ID",
+      "cityid": "21",
+      "name": "Kupang",
+      "active": "1"
+  },
+  {
+      "portid": "LBJ",
+      "countryid": "ID",
+      "cityid": "159",
+      "name": "LABUAN BAJO",
+      "active": "1"
+  },
+  {
+      "portid": "LAH",
+      "countryid": "ID",
+      "cityid": "1336",
+      "name": "LABUHA",
+      "active": "1"
+  },
+  {
+      "portid": "TKG",
+      "countryid": "ID",
+      "cityid": "18",
+      "name": "Lampung",
+      "active": "1"
+  },
+  {
+      "portid": "TMY",
+      "countryid": "ID",
+      "cityid": "1576",
+      "name": "LANNY JAYA",
+      "active": "1"
+  },
+  {
+      "portid": "LKA",
+      "countryid": "ID",
+      "cityid": "1339",
+      "name": "Larantuka",
+      "active": "1"
+  },
+  {
+      "portid": "LHI",
+      "countryid": "ID",
+      "cityid": "1569",
+      "name": "LEREH",
+      "active": "1"
+  },
+  {
+      "portid": "LWE",
+      "countryid": "ID",
+      "cityid": "200",
+      "name": "LEWOLEBA",
+      "active": "1"
+  },
+  {
+      "portid": "LSW",
+      "countryid": "ID",
+      "cityid": "1346",
+      "name": "Lhokseumawe",
+      "active": "1"
+  },
+  {
+      "portid": "LOP",
+      "countryid": "ID",
+      "cityid": "22",
+      "name": "Lombok",
+      "active": "1"
+  },
+  {
+      "portid": "LLG",
+      "countryid": "ID",
+      "cityid": "1243",
+      "name": "Lubuk Lingga",
+      "active": "1"
+  },
+  {
+      "portid": "LIG",
+      "countryid": "ID",
+      "cityid": "1458",
+      "name": "Lubuk Linggau",
+      "active": "1"
+  },
+  {
+      "portid": "LNO",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "LUNDO",
+      "active": "1"
+  },
+  {
+      "portid": "LUW",
+      "countryid": "ID",
+      "cityid": "203",
+      "name": "Luwuk",
+      "active": "1"
+  },
+  {
+      "portid": "KJT",
+      "countryid": "ID",
+      "cityid": "1350",
+      "name": "MAJALENGKA",
+      "active": "1"
+  },
+  {
+      "portid": "UPG",
+      "countryid": "ID",
+      "cityid": "27",
+      "name": "Makassar",
+      "active": "1"
+  },
+  {
+      "portid": "MLG",
+      "countryid": "ID",
+      "cityid": "66",
+      "name": "Malang",
+      "active": "1"
+  },
+  {
+      "portid": "MWW",
+      "countryid": "ID",
+      "cityid": "1561",
+      "name": "Malinau",
+      "active": "1"
+  },
+  {
+      "portid": "DRH",
+      "countryid": "ID",
+      "cityid": "1563",
+      "name": "MAMBERAMO RAYA",
+      "active": "1"
+  },
+  {
+      "portid": "MAM",
+      "countryid": "ID",
+      "cityid": "1259",
+      "name": "MAMIT",
+      "active": "1"
+  },
+  {
+      "portid": "MJU",
+      "countryid": "ID",
+      "cityid": "26",
+      "name": "Mamuju",
+      "active": "1"
+  },
+  {
+      "portid": "MDC",
+      "countryid": "ID",
+      "cityid": "30",
+      "name": "Manado",
+      "active": "1"
+  },
+  {
+      "portid": "MKW",
+      "countryid": "ID",
+      "cityid": "24",
+      "name": "Manokwari",
+      "active": "1"
+  },
+  {
+      "portid": "RTU",
+      "countryid": "ID",
+      "cityid": "201",
+      "name": "MARATUA AIRPORT",
+      "active": "1"
+  },
+  {
+      "portid": "AMI",
+      "countryid": "ID",
+      "cityid": "1322",
+      "name": "MATARAM",
+      "active": "1"
+  },
+  {
+      "portid": "MOF",
+      "countryid": "ID",
+      "cityid": "198",
+      "name": "MAUMERE",
+      "active": "1"
+  },
+  {
+      "portid": "MES",
+      "countryid": "ID",
+      "cityid": "33",
+      "name": "Medan",
+      "active": "1"
+  },
+  {
+      "portid": "KNO",
+      "countryid": "ID",
+      "cityid": "191",
+      "name": "Medan Kuala Namu",
+      "active": "1"
+  },
+  {
+      "portid": "MLK",
+      "countryid": "ID",
+      "cityid": "1233",
+      "name": "Melak",
+      "active": "1"
+  },
+  {
+      "portid": "MNA",
+      "countryid": "ID",
+      "cityid": "1328",
+      "name": "MELONGUANE",
+      "active": "1"
+  },
+  {
+      "portid": "MMK",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "MEMOK",
+      "active": "1"
+  },
+  {
+      "portid": "MKQ",
+      "countryid": "ID",
+      "cityid": "190",
+      "name": "Merauke",
+      "active": "1"
+  },
+  {
+      "portid": "RDE",
+      "countryid": "ID",
+      "cityid": "1557",
+      "name": "MERDEY",
+      "active": "1"
+  },
+  {
+      "portid": "MEQ",
+      "countryid": "ID",
+      "cityid": "1342",
+      "name": "Meulaboh",
+      "active": "1"
+  },
+  {
+      "portid": "MLI",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "MILKI",
+      "active": "1"
+  },
+  {
+      "portid": "KOX",
+      "countryid": "ID",
+      "cityid": "234",
+      "name": "Mimika",
+      "active": "1"
+  },
+  {
+      "portid": "MDP",
+      "countryid": "ID",
+      "cityid": "1562",
+      "name": "MINDIPTANA",
+      "active": "1"
+  },
+  {
+      "portid": "ONI",
+      "countryid": "ID",
+      "cityid": "1258",
+      "name": "MOANAMANI",
+      "active": "1"
+  },
+  {
+      "portid": "MOA",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "MOANAMANI",
+      "active": "1"
+  },
+  {
+      "portid": "MOH",
+      "countryid": "ID",
+      "cityid": "1349",
+      "name": "MOROWALI",
+      "active": "1"
+  },
+  {
+      "portid": "MOT",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "MOT",
+      "active": "1"
+  },
+  {
+      "portid": "MRB",
+      "countryid": "ID",
+      "cityid": "7",
+      "name": "Muara Bungo",
+      "active": "1"
+  },
+  {
+      "portid": "BUU",
+      "countryid": "ID",
+      "cityid": "1471",
+      "name": "Muara Bungo",
+      "active": "1"
+  },
+  {
+      "portid": "LII",
+      "countryid": "ID",
+      "cityid": "1572",
+      "name": "MULIA",
+      "active": "1"
+  },
+  {
+      "portid": "MUF",
+      "countryid": "ID",
+      "cityid": "190",
+      "name": "MUTING",
+      "active": "1"
+  },
+  {
+      "portid": "NBX",
+      "countryid": "ID",
+      "cityid": "1259",
+      "name": "Nabire",
+      "active": "1"
+  },
+  {
+      "portid": "NAL",
+      "countryid": "ID",
+      "cityid": "1573",
+      "name": "NALCA",
+      "active": "1"
+  },
+  {
+      "portid": "NAM",
+      "countryid": "ID",
+      "cityid": "1344",
+      "name": "NAMLEA",
+      "active": "1"
+  },
+  {
+      "portid": "NRE",
+      "countryid": "ID",
+      "cityid": "84",
+      "name": "NAMROLE",
+      "active": "1"
+  },
+  {
+      "portid": "NTX",
+      "countryid": "ID",
+      "cityid": "1467",
+      "name": "Natuna",
+      "active": "1"
+  },
+  {
+      "portid": "NIN",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "NINIA",
+      "active": "1"
+  },
+  {
+      "portid": "NIP",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "NIPSAN",
+      "active": "1"
+  },
+  {
+      "portid": "NON",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "NONGME",
+      "active": "1"
+  },
+  {
+      "portid": "NGE",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "NONGME",
+      "active": "1"
+  },
+  {
+      "portid": "NNX",
+      "countryid": "ID",
+      "cityid": "235",
+      "name": "Nunukan",
+      "active": "1"
+  },
+  {
+      "portid": "NYU",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "NYUME",
+      "active": "1"
+  },
+  {
+      "portid": "OBD",
+      "countryid": "ID",
+      "cityid": "1258",
+      "name": "OBANO",
+      "active": "1"
+  },
+  {
+      "portid": "OKQ",
+      "countryid": "ID",
+      "cityid": "190",
+      "name": "OKABA",
+      "active": "1"
+  },
+  {
+      "portid": "OKB",
+      "countryid": "ID",
+      "cityid": "1552",
+      "name": "OKBAB",
+      "active": "1"
+  },
+  {
+      "portid": "OKH",
+      "countryid": "ID",
+      "cityid": "1552",
+      "name": "OKHIKA AIRSTRIP",
+      "active": "1"
+  },
+  {
+      "portid": "OLA",
+      "countryid": "ID",
+      "cityid": "1552",
+      "name": "OKLIKA",
+      "active": "1"
+  },
+  {
+      "portid": "OLP",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "OKLIP",
+      "active": "1"
+  },
+  {
+      "portid": "OKP",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "OKPAHIK",
+      "active": "1"
+  },
+  {
+      "portid": "OKS",
+      "countryid": "ID",
+      "cityid": "1552",
+      "name": "OKSIBIL",
+      "active": "1"
+  },
+  {
+      "portid": "OKL",
+      "countryid": "ID",
+      "cityid": "1552",
+      "name": "OKSIBIL",
+      "active": "1"
+  },
+  {
+      "portid": "OKY",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "OKYOP",
+      "active": "1"
+  },
+  {
+      "portid": "OMB",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "OMBAN",
+      "active": "1"
+  },
+  {
+      "portid": "OWI",
+      "countryid": "ID",
+      "cityid": "1537",
+      "name": "OWITLEP",
+      "active": "1"
+  },
+  {
+      "portid": "PDG",
+      "countryid": "ID",
+      "cityid": "31",
+      "name": "Padang",
+      "active": "1"
+  },
+  {
+      "portid": "PKY",
+      "countryid": "ID",
+      "cityid": "13",
+      "name": "Palangkaraya",
+      "active": "1"
+  },
+  {
+      "portid": "PLM",
+      "countryid": "ID",
+      "cityid": "32",
+      "name": "Palembang",
+      "active": "1"
+  },
+  {
+      "portid": "PAL",
+      "countryid": "ID",
+      "cityid": "84",
+      "name": "Palopo",
+      "active": "1"
+  },
+  {
+      "portid": "LLO",
+      "countryid": "ID",
+      "cityid": "84",
+      "name": "PALOPO",
+      "active": "1"
+  },
+  {
+      "portid": "LLD",
+      "countryid": "ID",
+      "cityid": "82",
+      "name": "PALOPO",
+      "active": "1"
+  },
+  {
+      "portid": "PLW",
+      "countryid": "ID",
+      "cityid": "28",
+      "name": "Palu",
+      "active": "1"
+  },
+  {
+      "portid": "PAM",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "PAMEK",
+      "active": "1"
+  },
+  {
+      "portid": "PGK",
+      "countryid": "ID",
+      "cityid": "16",
+      "name": "Pangkal Pinang",
+      "active": "1"
+  },
+  {
+      "portid": "PKN",
+      "countryid": "ID",
+      "cityid": "1233",
+      "name": "Pangkalan Bun",
+      "active": "1"
+  },
+  {
+      "portid": "EWI",
+      "countryid": "ID",
+      "cityid": "1565",
+      "name": "PANIAI",
+      "active": "1"
+  },
+  {
+      "portid": "LUB",
+      "countryid": "ID",
+      "cityid": "1552",
+      "name": "PAPUA",
+      "active": "1"
+  },
+  {
+      "portid": "PKU",
+      "countryid": "ID",
+      "cityid": "25",
+      "name": "Pekanbaru",
+      "active": "1"
+  },
+  {
+      "portid": "PKL",
+      "countryid": "ID",
+      "cityid": "43",
+      "name": "PEMALANG",
+      "active": "1"
+  },
+  {
+      "portid": "PUM",
+      "countryid": "ID",
+      "cityid": "1300",
+      "name": "pomala",
+      "active": "1"
+  },
+  {
+      "portid": "PNK",
+      "countryid": "ID",
+      "cityid": "11",
+      "name": "Pontianak",
+      "active": "1"
+  },
+  {
+      "portid": "PSJ",
+      "countryid": "ID",
+      "cityid": "1321",
+      "name": "POSO",
+      "active": "1"
+  },
+  {
+      "portid": "HAG",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "PPPP",
+      "active": "1"
+  },
+  {
+      "portid": "PRO",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "PRONGGOLI",
+      "active": "1"
+  },
+  {
+      "portid": "ARD",
+      "countryid": "ID",
+      "cityid": "219",
+      "name": "Pulau Alor",
+      "active": "1"
+  },
+  {
+      "portid": "OTI",
+      "countryid": "ID",
+      "cityid": "1331",
+      "name": "Pulau Morotai",
+      "active": "1"
+  },
+  {
+      "portid": "PUL",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "PULDAMAT",
+      "active": "1"
+  },
+  {
+      "portid": "ILA",
+      "countryid": "ID",
+      "cityid": "1567",
+      "name": "PUNCAK",
+      "active": "1"
+  },
+  {
+      "portid": "PSU",
+      "countryid": "ID",
+      "cityid": "1233",
+      "name": "PUTUSSIBAU PANGSUMA",
+      "active": "1"
+  },
+  {
+      "portid": "RAQ",
+      "countryid": "ID",
+      "cityid": "1335",
+      "name": "RAHA",
+      "active": "1"
+  },
+  {
+      "portid": "RJM",
+      "countryid": "ID",
+      "cityid": "237",
+      "name": "Raja Ampat",
+      "active": "1"
+  },
+  {
+      "portid": "RSK",
+      "countryid": "ID",
+      "cityid": "24",
+      "name": "RANSIKI",
+      "active": "1"
+  },
+  {
+      "portid": "RTG",
+      "countryid": "ID",
+      "cityid": "194",
+      "name": "Ruteng",
+      "active": "1"
+  },
+  {
+      "portid": "SBG",
+      "countryid": "ID",
+      "cityid": "238",
+      "name": "Sabang",
+      "active": "1"
+  },
+  {
+      "portid": "SAU",
+      "countryid": "ID",
+      "cityid": "203",
+      "name": "SABU",
+      "active": "1"
+  },
+  {
+      "portid": "SRI",
+      "countryid": "ID",
+      "cityid": "14",
+      "name": "Samarinda",
+      "active": "1"
+  },
+  {
+      "portid": "AAP",
+      "countryid": "ID",
+      "cityid": "14",
+      "name": "SAMARINDA",
+      "active": "1"
+  },
+  {
+      "portid": "SMQ",
+      "countryid": "ID",
+      "cityid": "1230",
+      "name": "SAMPIT",
+      "active": "1"
+  },
+  {
+      "portid": "KXB",
+      "countryid": "ID",
+      "cityid": "1595",
+      "name": "SANGIA NIBANDERA",
+      "active": "1"
+  },
+  {
+      "portid": "ZRM",
+      "countryid": "ID",
+      "cityid": "1571",
+      "name": "SARMI",
+      "active": "1"
+  },
+  {
+      "portid": "SME",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "SAUME",
+      "active": "1"
+  },
+  {
+      "portid": "SXK",
+      "countryid": "ID",
+      "cityid": "19",
+      "name": "saumlaki",
+      "active": "1"
+  },
+  {
+      "portid": "YKR",
+      "countryid": "ID",
+      "cityid": "1324",
+      "name": "SELAYAR",
+      "active": "1"
+  },
+  {
+      "portid": "KSR",
+      "countryid": "ID",
+      "cityid": "1324",
+      "name": "SELAYAR",
+      "active": "1"
+  },
+  {
+      "portid": "SLY",
+      "countryid": "ID",
+      "cityid": "1324",
+      "name": "SELAYAR",
+      "active": "1"
+  },
+  {
+      "portid": "SRG",
+      "countryid": "ID",
+      "cityid": "9",
+      "name": "Semarang",
+      "active": "1"
+  },
+  {
+      "portid": "SEH",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "SENGGEH",
+      "active": "1"
+  },
+  {
+      "portid": "ZEG",
+      "countryid": "ID",
+      "cityid": "1553",
+      "name": "SENGGO",
+      "active": "1"
+  },
+  {
+      "portid": "ZRI",
+      "countryid": "ID",
+      "cityid": "1575",
+      "name": "SERUI",
+      "active": "1"
+  },
+  {
+      "portid": "FLZ",
+      "countryid": "ID",
+      "cityid": "1337",
+      "name": "SIBOLGA",
+      "active": "1"
+  },
+  {
+      "portid": "LKI",
+      "countryid": "ID",
+      "cityid": "1534",
+      "name": "SILAMPARI",
+      "active": "1"
+  },
+  {
+      "portid": "LLJ",
+      "countryid": "ID",
+      "cityid": "96",
+      "name": "Silampari",
+      "active": "1"
+  },
+  {
+      "portid": "DTB",
+      "countryid": "ID",
+      "cityid": "1338",
+      "name": "SILANGIT",
+      "active": "1"
+  },
+  {
+      "portid": "SMG",
+      "countryid": "ID",
+      "cityid": "1",
+      "name": "SIMEULUE",
+      "active": "1"
+  },
+  {
+      "portid": "SQG",
+      "countryid": "ID",
+      "cityid": "1566",
+      "name": "SINTANG SUSILO AIRPORT",
+      "active": "1"
+  },
+  {
+      "portid": "SOB",
+      "countryid": "ID",
+      "cityid": "1259",
+      "name": "SOBAHAM",
+      "active": "1"
+  },
+  {
+      "portid": "SOC",
+      "countryid": "ID",
+      "cityid": "60",
+      "name": "Solo",
+      "active": "1"
+  },
+  {
+      "portid": "SOQ",
+      "countryid": "ID",
+      "cityid": "82",
+      "name": "SORONG",
+      "active": "1"
+  },
+  {
+      "portid": "SQR",
+      "countryid": "ID",
+      "cityid": "1323",
+      "name": "Sorowako",
+      "active": "1"
+  },
+  {
+      "portid": "SOY",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "SOYA",
+      "active": "1"
+  },
+  {
+      "portid": "SVD",
+      "countryid": "ID",
+      "cityid": "1489",
+      "name": "ST. VINCENT",
+      "active": "1"
+  },
+  {
+      "portid": "SUD",
+      "countryid": "ID",
+      "cityid": "27",
+      "name": "SUDIANG AIRPORT",
+      "active": "1"
+  },
+  {
+      "portid": "SWQ",
+      "countryid": "ID",
+      "cityid": "208",
+      "name": "SUMBAWA",
+      "active": "1"
+  },
+  {
+      "portid": "SUP",
+      "countryid": "ID",
+      "cityid": "1352",
+      "name": "SUMENEP",
+      "active": "1"
+  },
+  {
+      "portid": "SUB",
+      "countryid": "ID",
+      "cityid": "10",
+      "name": "Surabaya",
+      "active": "1"
+  },
+  {
+      "portid": "NAH",
+      "countryid": "ID",
+      "cityid": "1327",
+      "name": "TAHUNA",
+      "active": "1"
+  },
+  {
+      "portid": "TMC",
+      "countryid": "ID",
+      "cityid": "1240",
+      "name": "TAMBOLAKA",
+      "active": "1"
+  },
+  {
+      "portid": "KEQ",
+      "countryid": "ID",
+      "cityid": "1556",
+      "name": "TAMBRAUW",
+      "active": "1"
+  },
+  {
+      "portid": "TMH",
+      "countryid": "ID",
+      "cityid": "1562",
+      "name": "TANAH MERAH",
+      "active": "1"
+  },
+  {
+      "portid": "STA",
+      "countryid": "ID",
+      "cityid": "1228",
+      "name": "TANJUNG BARA",
+      "active": "1"
+  },
+  {
+      "portid": "TJQ",
+      "countryid": "ID",
+      "cityid": "1239",
+      "name": "TANJUNG PANDAN",
+      "active": "1"
+  },
+  {
+      "portid": "TNJ",
+      "countryid": "ID",
+      "cityid": "17",
+      "name": "Tanjung Pinang",
+      "active": "1"
+  },
+  {
+      "portid": "TJS",
+      "countryid": "ID",
+      "cityid": "15",
+      "name": "TANJUNG SELOR",
+      "active": "1"
+  },
+  {
+      "portid": "TRK",
+      "countryid": "ID",
+      "cityid": "74",
+      "name": "Tarakan",
+      "active": "1"
+  },
+  {
+      "portid": "PRK",
+      "countryid": "ID",
+      "cityid": "74",
+      "name": "Tarakan",
+      "active": "1"
+  },
+  {
+      "portid": "TAR",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "TARIA",
+      "active": "1"
+  },
+  {
+      "portid": "TRB",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "TARUB",
+      "active": "1"
+  },
+  {
+      "portid": "TSY",
+      "countryid": "ID",
+      "cityid": "53",
+      "name": "Tasikmalaya",
+      "active": "1"
+  },
+  {
+      "portid": "TEI",
+      "countryid": "ID",
+      "cityid": "1582",
+      "name": "TEIRAPLU",
+      "active": "1"
+  },
+  {
+      "portid": "WSR",
+      "countryid": "ID",
+      "cityid": "1559",
+      "name": "TELUK WONDAMA",
+      "active": "1"
+  },
+  {
+      "portid": "TMX",
+      "countryid": "ID",
+      "cityid": "1558",
+      "name": "TEMINABUAN",
+      "active": "1"
+  },
+  {
+      "portid": "TER",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "TERAPLU",
+      "active": "1"
+  },
+  {
+      "portid": "TTE",
+      "countryid": "ID",
+      "cityid": "78",
+      "name": "Ternate",
+      "active": "1"
+  },
+  {
+      "portid": "TOS",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "TERPONES",
+      "active": "1"
+  },
+  {
+      "portid": "TIM",
+      "countryid": "ID",
+      "cityid": "1227",
+      "name": "Timika",
+      "active": "1"
+  },
+  {
+      "portid": "TIN",
+      "countryid": "ID",
+      "cityid": "1552",
+      "name": "TINIBIL",
+      "active": "1"
+  },
+  {
+      "portid": "TIO",
+      "countryid": "ID",
+      "cityid": "1572",
+      "name": "TIOM",
+      "active": "1"
+  },
+  {
+      "portid": "KAZ",
+      "countryid": "ID",
+      "cityid": "1277",
+      "name": "TOBELO",
+      "active": "1"
+  },
+  {
+      "portid": "TLI",
+      "countryid": "ID",
+      "cityid": "1332",
+      "name": "TOLITOLI",
+      "active": "1"
+  },
+  {
+      "portid": "TUA",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "TUAL",
+      "active": "1"
+  },
+  {
+      "portid": "LUV",
+      "countryid": "ID",
+      "cityid": "19",
+      "name": "TUAL",
+      "active": "1"
+  },
+  {
+      "portid": "UBR",
+      "countryid": "ID",
+      "cityid": "1569",
+      "name": "UBRUB",
+      "active": "1"
+  },
+  {
+      "portid": "WGP",
+      "countryid": "ID",
+      "cityid": "1231",
+      "name": "WAINGAPU",
+      "active": "1"
+  },
+  {
+      "portid": "WNI",
+      "countryid": "ID",
+      "cityid": "1320",
+      "name": "WAKATOBI",
+      "active": "1"
+  },
+  {
+      "portid": "WNX",
+      "countryid": "ID",
+      "cityid": "1328",
+      "name": "Wamena",
+      "active": "1"
+  },
+  {
+      "portid": "WMX",
+      "countryid": "ID",
+      "cityid": "1326",
+      "name": "WAMENA",
+      "active": "1"
+  },
+  {
+      "portid": "WAR",
+      "countryid": "ID",
+      "cityid": "1569",
+      "name": "WARIS BARU",
+      "active": "1"
+  },
+  {
+      "portid": "WEI",
+      "countryid": "ID",
+      "cityid": "1552",
+      "name": "WEIME",
+      "active": "1"
+  },
+  {
+      "portid": "WEL",
+      "countryid": "ID",
+      "cityid": "1588",
+      "name": "WELAREK",
+      "active": "1"
+  },
+  {
+      "portid": "WRR",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "WERUR",
+      "active": "1"
+  },
+  {
+      "portid": "YAB",
+      "countryid": "ID",
+      "cityid": "1588",
+      "name": "YABOBE",
+      "active": "1"
+  },
+  {
+      "portid": "ELR",
+      "countryid": "ID",
+      "cityid": "1564",
+      "name": "YALIMO",
+      "active": "1"
+  },
+  {
+      "portid": "YBI",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "YOBOI",
+      "active": "1"
+  },
+  {
+      "portid": "YOB",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "YOBOSOROM",
+      "active": "1"
+  },
+  {
+      "portid": "YIA",
+      "countryid": "ID",
+      "cityid": "34",
+      "name": "YOGYA INTERNATIONAL AIRPORT",
+      "active": "1"
+  },
+  {
+      "portid": "JOG",
+      "countryid": "ID",
+      "cityid": "34",
+      "name": "Yogyakarta",
+      "active": "1"
+  },
+  {
+      "portid": "YOL",
+      "countryid": "ID",
+      "cityid": "1560",
+      "name": "YOLBAN",
+      "active": "1"
+  },
+  {
+      "portid": "RUF",
+      "countryid": "ID",
+      "cityid": "1569",
+      "name": "YURUF",
+      "active": "1"
+  }
+]
